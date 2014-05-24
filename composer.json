@@ -1,0 +1,35 @@
+{
+  "name": "jpedius/botr-api",
+  "description": "JW Platform / BotR API",
+  "type": "library",
+  "keywords": [
+    "botr",
+    "jwplatform",
+    "jwplayer",
+    "video"
+  ],
+  "homepage": "https://github.com/jpedius/botr-api",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "JP McDowell",
+      "email": "jp.mcdowell@gmail.com",
+      "homepage": "https://github.com/jpedius",
+      "role": "lead"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jpedius/botr-api/issues"
+  },
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "files": ["api.php"]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.4-dev"
+    }
+  }
+}
