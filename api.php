@@ -1,4 +1,5 @@
-<?php
+<?php namespace JPedius;
+
     /*-----------------------------------------------------------------------------
      * PHP client library for Bits on the Run System API
      *
@@ -149,4 +150,4 @@
             }
         }
     }
-?>
+

@@ -9,7 +9,7 @@
     "video"
   ],
   "homepage": "https://github.com/jpedius/botr-api",
-  "license": "proprietary",
+  "license": "BSD-3-Clause",
   "authors": [
     {
       "name": "JP McDowell",
@@ -22,7 +22,8 @@
     "issues": "https://github.com/jpedius/botr-api/issues"
   },
   "require": {
-    "php": ">=5.3.3"
+    "php": ">=5.3.3",
+    "ext-curl": "*"
   },
   "autoload": {
     "files": ["api.php"]
@@ -33,3 +34,4 @@
     }
   }
 }
+
