@@ -1,4 +1,4 @@
-<?php namespace JPedius;
+<?php namespace TakePart;
 
     /*-----------------------------------------------------------------------------
      * PHP client library for Bits on the Run System API

@@ -1,5 +1,5 @@
 {
-  "name": "jpedius/botr-api",
+  "name": "takepart/botr-api",
   "description": "JW Platform / BotR API",
   "type": "library",
   "keywords": [
@@ -8,18 +8,18 @@
     "jwplayer",
     "video"
   ],
-  "homepage": "https://github.com/jpedius/botr-api",
+  "homepage": "https://github.com/takepart/botr-api",
   "license": "BSD-3-Clause",
   "authors": [
     {
       "name": "JP McDowell",
-      "email": "jp.mcdowell@gmail.com",
-      "homepage": "https://github.com/jpedius",
+      "email": "jp@takepart.com",
+      "homepage": "https://github.com/takepart",
       "role": "lead"
     }
   ],
   "support": {
-    "issues": "https://github.com/jpedius/botr-api/issues"
+    "issues": "https://github.com/takepart/botr-api/issues"
   },
   "require": {
     "php": ">=5.3.3",
