@@ -1,6 +1,6 @@
 ## PHP client library for Bits on the Run System API
 
-A PHP client library for the [Bits on the Run][BitsOnTheRun] API.
+A [Composer](https://getcomposer.org/) friendly PHP client library for the [Bits on the Run][BitsOnTheRun] API.
 
 ### Documentation
 
